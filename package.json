@@ -1,0 +1,17 @@
+{
+  "name": "price-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.4.3",
+    "puppeteer": "^21.7.0"
+  }
+}
